@@ -93,10 +93,10 @@ export const managers = [
        "name": "Michael Hanko",
        "tookOver": 2022, // (optional) used if a manager took over a team, delete this line or change to null otherwise
        "location": "Milwaukee", // (optional)
-       "bio": "Lorem ipsum...",
-       "photo": "/managers/name.jpg", // square ratio recommended (no larger than 500x500)
-       "fantasyStart": 2014, // (optional) when did the manager start playing fantasy football
-       "favoriteTeam": "gbp", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
+       "bio": "First year in a Dynasty league and am super excited! I live in Wisconsin with my wife and 4 year old son. My wife is childhood friends with Mike, which is how I got invited to this league.",
+       "photo": "/managers/mk_cartoon.jpeg", // square ratio recommended (no larger than 500x500)
+       "fantasyStart": 2008, // (optional) when did the manager start playing fantasy football
+       "favoriteTeam": "gb", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
        "mode": "Dynasty", // (optional) 'Win Now', 'Dynasty', or 'Rebuild' (anything else and you will need to add a new png to /static/ similar to the 'Rebuild.png' and 'Win Now.png' currently in there)
        "rival": {
          name: "Rival", // Can be anything (usually your rival's name)
@@ -106,7 +106,7 @@ export const managers = [
        "favoritePlayer": 4199, // (optional) this corresponds to the Sleeper player ID (https://api.sleeper.app/v1/players/nfl)
        "valuePosition": "RB", // (optional) Favorite position (QB, WR, RB, TE, etc.)
        "rookieOrVets": "Vets", // (optional) 'Rookies' or 'Vets' (anything else and you will need to add a new png to /static/ similar to the 'Rookies.png' and 'Vets.png' currently in there)
-       "philosophy": "Um... win?",
+       "philosophy": "Quality over quantity. The team policy is to trade depth for stars, and win on a knife's edge where a single injury can completely derail a season.",
        "tradingScale": 5, // 1 - 10
        "preferredContact": "Sleeper", // 'Text', 'WhatsApp', 'Sleeper', 'Email', 'Phone', 'Discord', and 'Carrier Pigeon' are currently supplied in the template
      },
