@@ -93,7 +93,7 @@ export const managers = [
        "name": "Michael Hanko",
        "tookOver": 2022, // (optional) used if a manager took over a team, delete this line or change to null otherwise
        "location": "Milwaukee", // (optional)
-       "bio": "First year in a Dynasty league and am super excited! I live in Wisconsin with my wife and 4 year old son. My wife is childhood friends with Mike, which is how I got invited to this league.",
+       "bio": "I live in Wisconsin with my wife and 4 year old son. My wife is childhood friends with Mike, which is how I got invited to this league.",
        "photo": "/managers/mk_cartoon.jpeg", // square ratio recommended (no larger than 500x500)
        "fantasyStart": 2008, // (optional) when did the manager start playing fantasy football
        "favoriteTeam": "gb", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
