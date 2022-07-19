@@ -7,9 +7,9 @@ export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VI
 
 /*   STEP 2   */
 export const homepageText = `
-  <p>This is the All Elite Dynasty leage.</p>
-  <p>Some cool stuff needs to be written here.</p>
-  <p>I'm a third paragraph.</p>
+  <p>Founded in 2022, the All Elite Dynasty league began as a Dynasty leage with 12 members.</p>
+  <p>Some managers built immediate win-now teams, while others began the slow process of building a juggernaut dynasty team. A portion of the league prioritized youth and draft picks, the rest gravitated towards the steadfast value of veterans. While some managers fled from injuries and down years, others bought the dip and built for the future.</p>
+  <p>White the ultimate prize is bragging rights and sending obnoxious messages tot he rest of the league for the next year, the champion also walks away with $1400.</p>
 `;
 
 /*   STEP 3   */
