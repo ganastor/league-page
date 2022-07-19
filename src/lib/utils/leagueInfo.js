@@ -129,7 +129,7 @@ export const managers = [
        "valuePosition": "QB", // (optional) Favorite position (QB, WR, RB, TE, etc.)
        "rookieOrVets": "Rookies", // (optional) 'Rookies' or 'Vets' (anything else and you will need to add a new png to /static/ similar to the 'Rookies.png' and 'Vets.png' currently in there)
        "philosophy": "I'm just here to participate. Do they give trophies for that?",
-       "tradingScale": 10, // 1 - 10
+       "tradingScale": 11, // 1 - 10
        "preferredContact": "Sleeper", // 'Text', 'WhatsApp', 'Sleeper', 'Email', 'Phone', 'Discord', and 'Carrier Pigeon' are currently supplied in the template
      },
   ]
