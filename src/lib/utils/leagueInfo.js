@@ -123,10 +123,10 @@ export const managers = [
        "rival": {
          name: "Running Backs", // Can be anything (usually your rival's name)
          link: null, // manager array number within this array, or null to link back to all managers page
-         image: "/managers/everyone.jpg", // either a specific manager photo or '/managers/everyone.png' or '/managers/question.png'
+         image: "/managers/everyone.png", // either a specific manager photo or '/managers/everyone.png' or '/managers/question.png'
        },
        "favoritePlayer": 24, // (optional) this corresponds to the Sleeper player ID (https://api.sleeper.app/v1/players/nfl)
-       "valuePosition": "TC", // (optional) Favorite position (QB, WR, RB, TE, etc.)
+       "valuePosition": "TE", // (optional) Favorite position (QB, WR, RB, TE, etc.)
        "rookieOrVets": "Vets", // (optional) 'Rookies' or 'Vets' (anything else and you will need to add a new png to /static/ similar to the 'Rookies.png' and 'Vets.png' currently in there)
        "philosophy": "Avoid Matt Ryan at all costs",
        "tradingScale": 10, // 1 - 10
