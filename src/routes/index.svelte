@@ -23,13 +23,13 @@
     $: resize(innerWidth);
 
     let innerWidth;
-
-</script>
 <!------MPH CUSTOM-------------->
-<script>
+
 	import { browser } from '$app/env';
-</script>
+
 <!-------------------->
+</script>
+
 
 <svelte:window bind:innerWidth={innerWidth} />
 
