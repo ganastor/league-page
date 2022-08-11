@@ -23,11 +23,6 @@
     $: resize(innerWidth);
 
     let innerWidth;
-<!------MPH CUSTOM-------------->
-
-	import { browser } from '$app/env';
-
-<!-------------------->
 </script>
 
 
