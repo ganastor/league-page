@@ -25,6 +25,11 @@
     let innerWidth;
 
 </script>
+<!------MPH CUSTOM-------------->
+<script>
+	import { browser } from '$app/env';
+</script>
+<!-------------------->
 
 <svelte:window bind:innerWidth={innerWidth} />
 
@@ -203,6 +208,11 @@
 
         <div class="transactions" bind:this={el} >
             <Transactions masterOffset={left} />
+		<!------MPH CUSTOM ----------->
+		{#if browser}
+<script id="cid0020000321216609869" data-cfasync="false" async src="//st.chatango.com/js/gz/emb.js" style="width: 100%;height: 100%;">{"handle":"allelitedynasty","arch":"js","styles":{"a":"CC0000","b":100,"c":"FFFFFF","d":"FFFFFF","k":"CC0000","l":"CC0000","m":"CC0000","n":"FFFFFF","p":"10","q":"CC0000","r":100}}</script>
+{/if}
+		<!-------------------------->
         </div>
     </div>
 </div>
